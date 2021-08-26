@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MainFormSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MainFormTopMost>false</MainFormTopMost>
+  <MainFormSize>
+    <Width>1540</Width>
+    <Height>1226</Height>
+  </MainFormSize>
+  <MainFormLocation>
+    <X>4</X>
+    <Y>3</Y>
+  </MainFormLocation>
+  <MainFormWindowState>Normal</MainFormWindowState>
+</MainFormSettings>
