@@ -23,3 +23,9 @@
 ## Руководство пользователя
 
 [Оригинальное руководство пользователя, созданное В.Фатеевым](https://tashik.github.io/OptionVictory/blob/gh-pages/OptionFVV_Usermanual.pdf)
+
+## Видео-инструкции
+
+[2016](https://www.youtube.com/watch?v=ytumZ91OGpQ)
+
+
