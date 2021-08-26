@@ -28,4 +28,6 @@
 
 [2016](https://www.youtube.com/watch?v=ytumZ91OGpQ)
 
+## Куда идти с feature requests и багами
 
+[В issue tracker](https://github.com/tashik/OptionVictory/issues)
