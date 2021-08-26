@@ -22,4 +22,4 @@
 
 ### Руководство пользователя
 
-Тут будет руководство пользователя
+[Оригинальное руководство пользователя, созданное В.Фатеевым](https://tashik.github.io/OptionVictory/blob/gh-pages/OptionFVV_Usermanual.pdf)
