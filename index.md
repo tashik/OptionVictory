@@ -18,7 +18,7 @@
 
 ### Файл настроек для Quik
 
-[Архив с файлом настроек wmd](https://github.com/tashik/OptionVictory/OptionFVV.wnd.zip)
+[Архив с файлом настроек wmd](https://tashik.github.io/OptionVictory/OptionFVV.wnd.zip)
 
 ### Руководство пользователя
 
