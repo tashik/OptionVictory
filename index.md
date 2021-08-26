@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Опционный аналитик Виктора Фатеева OptionFVV -> OptionVictory
 
-You can use the [editor on GitHub](https://github.com/tashik/OptionVictory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+На данном ресурсе будет находиться опционный аналитик Виктора Фатеева, дорабатываемый и поддерживаемый мною. Ресурс создан с целью облегчения распространения релизов.
+Программа абсолютно бесплатная. Все donation отправляем автору, если душа просит - ему наверняка будет приятно.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Релизы и история изменений
 
-### Markdown
+#### Актуальная версия 26 августа 2021 г
+[ovic-2.2.1](https://github.com/tashik/OptionVictory/archive/refs/tags/ovic-2.2.1.zip) 
+- Расширение возможностей масштабирования диаграммы
+- Увеличение числа выводимых на вкладке Доска опционных страйков
+- На вкладке Данные в левой панели Сделки добавлены кнопки, позволяющие выделить все транзакции и снять выделение в один клик
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Версия 2.1.1 30 октября 2020 г
+[ovic-2.1.1](https://cloud.mail.ru/public/5BCZ/Vr8Qt61PN)
+- Переработан импорт транзакций из Quik с учетом обновления Spectra
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Файл настроек для Quik
 
-- Bulleted
-- List
+Сюда положу файл настроек
 
-1. Numbered
-2. List
+### Руководство пользователя
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tashik/OptionVictory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Тут будет руководство пользователя
