@@ -5,6 +5,11 @@
 
 ## Релизы и история изменений
 
+#### Актуальная версия от 31 августа 2021 г (темная тема)
+[ovic-2.2.2-dark](https://github.com/tashik/OptionVictory/archive/refs/tags/ovic-2.2.2-dark.zip)
+- Добавлена темная тема Ocean Dark
+- Убрана Безумная тема
+
 #### Актуальная версия 26 августа 2021 г
 [ovic-2.2.1](https://github.com/tashik/OptionVictory/archive/refs/tags/ovic-2.2.1.zip) 
 - Расширение возможностей масштабирования диаграммы
