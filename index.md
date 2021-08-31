@@ -7,6 +7,7 @@
 
 #### Актуальная версия от 31 августа 2021 г (темная тема)
 [ovic-2.2.2-dark](https://github.com/tashik/OptionVictory/archive/refs/tags/ovic-2.2.2-dark.zip)
+
 ![image](https://user-images.githubusercontent.com/3192254/131544198-956e7d0c-72d7-44d6-8dae-2c309e2f4f5b.png)
 
 - Добавлена темная тема Ocean Dark
