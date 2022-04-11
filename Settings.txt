@@ -2,14 +2,14 @@ UpdateTime;5000
 ColorTheme;Ocean Dark
 BoardQuantity;100
 BoardTheme;Classic
-BoardBaseAsset;RIZ1
-BoardExpirationDate;28.10.2021
-CurrentStrategy;RI-2810
-CurrentTab;tabPageBoard
+BoardBaseAsset;RIM2
+BoardExpirationDate;21.04.2022
+CurrentStrategy;
+CurrentTab;tabPageChart
 ChartStepGridX;2500
 ChartStepGridY;1000
-ChartIndentUp;4
-ChartIndentDn;4
+ChartIndentUp;140
+ChartIndentDn;80
 ChartQuantityStandartDeviation;1
 ChartQuantityDaysStandartDeviation;6
 ChartCheckBoxChartCurrent;True
@@ -37,5 +37,6 @@ SmileModelKink;1
 SmileModelVolatility;24
 SmileCheckBoxModelVolatility;True
 Account;
+DDEPrefix;
 SlippageDH;0
 FolderSetupQuik;
