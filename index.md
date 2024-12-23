@@ -7,6 +7,8 @@
 В меру своих на данный момент довольно ограниченных возможностей записала несколько частей видеоруководства по работе с аналитиком, из которых создала плейлист на Youtube.
 
 [OptionVictory Youtube Channel](https://www.youtube.com/watch?v=0W08UzdwzVU&list=PL0_nYaxV-Saeh3B10Oowzn9HYtaJOWHrH)
+[OptionVictory Rutube Channel](https://rutube.ru/channel/32377706/)
+[OptionVictory Telegram Channel и Чат поддержки в комментариях](http://t.me/optionvictory)
 
 ## Как устанавливать обновления
 
