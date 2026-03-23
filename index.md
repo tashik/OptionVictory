@@ -8,7 +8,8 @@
 
 [OptionVictory Youtube Channel](https://www.youtube.com/watch?v=0W08UzdwzVU&list=PL0_nYaxV-Saeh3B10Oowzn9HYtaJOWHrH) | 
 [OptionVictory Rutube Channel](https://rutube.ru/channel/32377706/) | 
-[OptionVictory Telegram Channel и Чат поддержки в комментариях](http://t.me/optionvictory)
+[OptionVictory Telegram Channel и Чат поддержки в комментариях](http://t.me/optionvictory) |
+[Boosty Опционы без пурги: OptionVictory, Afina, переводы и другие материалы (со временем)](https://boosty.to/optionvictory)
 
 ## Как устанавливать обновления
 
